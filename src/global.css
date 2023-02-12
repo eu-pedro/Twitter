@@ -1,0 +1,19 @@
+:root {
+  --blue: #1d9bf0;
+  --black: #0f1419;
+  --gray-400: #eff3f4;
+  --gray-300: #f3f5f5;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:focus {
+  outline: transparent;
+}
+
+body{
+  -webkit-font-smoothing: antialiased;
+}
